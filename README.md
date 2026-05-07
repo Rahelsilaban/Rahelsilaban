@@ -22,8 +22,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rahelsilaban&theme=midnight-purple&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Rahel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahelsilaban&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=10)](https://github.com/Rahelsilaban)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahelsilaban&layout=compact&theme=midnight-purple&hide_border=true&border_radius=10)](https://github.com/Rahelsilaban)
+[![Rahel's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rahelsilaban&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=10)](https://github.com/Rahelsilaban)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rahelsilaban&layout=compact&theme=midnight-purple&hide_border=true&border_radius=10)](https://github.com/Rahelsilaban)
 
 </div>
 
