@@ -24,7 +24,7 @@
 
 ### 💬 Quote of the Day
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Data+is+not+information%2C+information+is+not+knowledge&author=Clifford+Stoll)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
@@ -38,6 +38,16 @@
 
 [![Rahel's GitHub Stats](https://github-readme-stats-nine-iota-70.vercel.app/api?username=rahelsilaban&show_icons=true&theme=dark&hide_border=true&border_radius=10&title_color=2E86C1&icon_color=2E86C1&text_color=C9D8F0)](https://github.com/rahelsilaban)
 [![Top Langs](https://github-readme-stats-nine-iota-70.vercel.app/api/top-langs/?username=rahelsilaban&layout=compact&theme=dark&hide_border=true&border_radius=10&title_color=2E86C1&text_color=C9D8F0)](https://github.com/rahelsilaban)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 My Contributions
+
+![Snake animation](https://raw.githubusercontent.com/rahelsilaban/rahelsilaban/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
