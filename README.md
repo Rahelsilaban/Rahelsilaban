@@ -1,16 +1,20 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=9B59B6,C39BD3,7D3C98&height=200&section=header&text=プログラマ&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Hi%20There!%20I'm%20Rahel%20Juri%20Elisabet%20Silaban&descSize=20&descAlignY=60&descColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0A1628,1B3A6B,2E5EAA&height=200&section=header&text=システムアナリスト&fontSize=32&fontColor=ffffff&fontAlignY=35&desc=Hi%20There!%20I'm%20Rahel%20Juri%20Elisabet%20Silaban%20👋&descSize=20&descAlignY=60&descColor=C9D8F0)
 
 </div>
 
 <div align="center">
 
-### ✨ Aspirant System Analyst & Data Modeler ✨
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Aspirant+System+Analyst+%26+Data+Modeler;Information+Systems+Student+%40+IT+Del;Focused+on+Data+Architecture;Business+Process+Modeling+Enthusiast)](https://git.io/typing-svg)
 
-![Student](https://img.shields.io/badge/🎓_Student-IT_Del-6C3483?style=for-the-badge)
-![Focus](https://img.shields.io/badge/🔍_Focus-System_Analysis-9B59B6?style=for-the-badge)
-![Data](https://img.shields.io/badge/📊_Data-Modeling-C39BD3?style=for-the-badge)
+</div>
+
+<div align="center">
+
+![Student](https://img.shields.io/badge/🎓_Student-IT_Del-0A1628?style=for-the-badge&logoColor=white)
+![Focus](https://img.shields.io/badge/🔍_Focus-System_Analysis-1B3A6B?style=for-the-badge&logoColor=white)
+![Data](https://img.shields.io/badge/📊_Data-Modeling-2E5EAA?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -20,10 +24,10 @@
 
 ### 📊 GitHub Activities
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rahelsilaban&theme=midnight-purple&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rahelsilaban&theme=dark&hide_border=true&border_radius=10&ring=2E86C1&fire=1B3A6B&currStreakLabel=2E86C1&sideLabels=2E86C1&dates=7F8C8D)](https://git.io/streak-stats)
 
-[![Rahel's GitHub Stats](https://github-readme-stats-nine-iota-70.vercel.app/api?username=rahelsilaban&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=10)](https://github.com/rahelsilaban)
-[![Top Langs](https://github-readme-stats-nine-iota-70.vercel.app/api/top-langs/?username=rahelsilaban&layout=compact&theme=midnight-purple&hide_border=true&border_radius=10)](https://github.com/rahelsilaban)
+[![Rahel's GitHub Stats](https://github-readme-stats-nine-iota-70.vercel.app/api?username=rahelsilaban&show_icons=true&theme=dark&hide_border=true&border_radius=10&title_color=2E86C1&icon_color=2E86C1&text_color=C9D8F0)](https://github.com/rahelsilaban)
+[![Top Langs](https://github-readme-stats-nine-iota-70.vercel.app/api/top-langs/?username=rahelsilaban&layout=compact&theme=dark&hide_border=true&border_radius=10&title_color=2E86C1&text_color=C9D8F0)](https://github.com/rahelsilaban)
 
 </div>
 
@@ -33,10 +37,10 @@
 
 ### 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0A1628?style=for-the-badge&logo=python&logoColor=2E86C1)
+![SQL](https://img.shields.io/badge/SQL-0A1628?style=for-the-badge&logo=mysql&logoColor=2E86C1)
+![Java](https://img.shields.io/badge/Java-0A1628?style=for-the-badge&logo=openjdk&logoColor=2E86C1)
+![GitHub](https://img.shields.io/badge/GitHub-0A1628?style=for-the-badge&logo=github&logoColor=2E86C1)
 
 </div>
 
@@ -44,8 +48,19 @@
 
 <div align="center">
 
-*Information Systems Student | Focused on Data Architecture & Business Process Modeling*
+### 📫 Connect with Me
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=9B59B6,C39BD3,7D3C98&height=100&section=footer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A1628?style=for-the-badge&logo=linkedin&logoColor=2E86C1)](https://linkedin.com/in/rahelsilaban)
+[![Instagram](https://img.shields.io/badge/Instagram-0A1628?style=for-the-badge&logo=instagram&logoColor=2E86C1)](https://instagram.com/rahelsilaban)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Data is the new oil — and I'm here to refine it."*
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0A1628,1B3A6B,2E5EAA&height=100&section=footer)
 
 </div>
