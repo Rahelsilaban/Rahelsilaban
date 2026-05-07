@@ -70,7 +70,7 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A1628?style=for-the-badge&logo=linkedin&logoColor=2E86C1)](https://www.linkedin.com/in/rahel-juri-elisabet-silaban-38162b3a9)
+[![Instagram](https://img.shields.io/badge/Instagram-0A1628?style=for-the-badge&logo=instagram&logoColor=2E86C1)](https://www.instagram.com/raheljeslbn?igsh=MWcwNW4zeXIxNHRoZQ==)
 
 </div>
 
