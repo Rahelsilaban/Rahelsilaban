@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0A1628,1B3A6B,2E5EAA&height=200&section=header&text=システムアナリスト&fontSize=32&fontColor=ffffff&fontAlignY=35&desc=Hi%20There!%20I'm%20Rahel%20Juri%20Elisabet%20Silaban%20👋&descSize=20&descAlignY=60&descColor=C9D8F0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0A1628,1B3A6B,2E5EAA&height=210&section=header&text=SELECT%20*%20FROM%20future&fontSize=35&fontColor=ffffff&fontAlignY=35&desc=Hi%20There!%20I'm%20Rahel%20Juri%20Elisabet%20Silaban%20👋&descSize=20&descAlignY=60&descColor=C9D8F0)
 
 </div>
 
@@ -15,6 +15,16 @@
 ![Student](https://img.shields.io/badge/🎓_Student-IT_Del-0A1628?style=for-the-badge&logoColor=white)
 ![Focus](https://img.shields.io/badge/🔍_Focus-System_Analysis-1B3A6B?style=for-the-badge&logoColor=white)
 ![Data](https://img.shields.io/badge/📊_Data-Modeling-2E5EAA?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Quote of the Day
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Data+is+not+information%2C+information+is+not+knowledge&author=Clifford+Stoll)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
@@ -50,14 +60,15 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A1628?style=for-the-badge&logo=linkedin&logoColor=2E86C1)](https://linkedin.com/in/rahelsilaban)
-[![Instagram](https://img.shields.io/badge/Instagram-0A1628?style=for-the-badge&logo=instagram&logoColor=2E86C1)](https://instagram.com/rahelsilaban)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A1628?style=for-the-badge&logo=linkedin&logoColor=2E86C1)](https://www.linkedin.com/in/rahel-juri-elisabet-silaban-38162b3a9)
 
 </div>
 
 ---
 
 <div align="center">
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=rahelsilaban.rahelsilaban&left_color=0A1628&right_color=2E86C1)
 
 *"Data is the new oil — and I'm here to refine it."*
 
