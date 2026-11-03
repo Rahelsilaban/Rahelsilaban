@@ -36,8 +36,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rahelsilaban&theme=dark&hide_border=true&border_radius=10&ring=2E86C1&fire=1B3A6B&currStreakLabel=2E86C1&sideLabels=2E86C1&dates=7F8C8D)](https://git.io/streak-stats)
 
-[![Rahel's GitHub Stats](https://github-readme-stats-nine-iota-70.vercel.app/api?username=rahelsilaban&show_icons=true&theme=dark&hide_border=true&border_radius=10&title_color=2E86C1&icon_color=2E86C1&text_color=C9D8F0)](https://github.com/rahelsilaban)
-[![Top Langs](https://github-readme-stats-nine-iota-70.vercel.app/api/top-langs/?username=rahelsilaban&layout=compact&theme=dark&hide_border=true&border_radius=10&title_color=2E86C1&text_color=C9D8F0)](https://github.com/rahelsilaban)
+[![Rahel's GitHub Stats](https://github-readme-stats-nine-iota-70.vercel.app/api?username=rahelsilaban&show_icons=true&theme=dark&hide_border=true&border_radius=10&title_color=2E86C1&icon_color=2E86C1&text_color=C9D8F0&v=2)](https://github.com/rahelsilaban)
+[![Top Langs](https://github-readme-stats-nine-iota-70.vercel.app/api/top-langs/?username=rahelsilaban&layout=compact&theme=dark&hide_border=true&border_radius=10&title_color=2E86C1&text_color=C9D8F0&v=2)](https://github.com/rahelsilaban)
 
 </div>
 
